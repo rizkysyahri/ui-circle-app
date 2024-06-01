@@ -1,0 +1,8 @@
+like di all post belom di handel.
+button follow belom berubah ketika sudah klik follow
+reset password
+
+
+// bug
+
+like di all post profile, ketika di klik semua thread nya jadi masuk
